@@ -1,0 +1,4 @@
+file: TE_C_00006_c7de17_aug.json
+instances: 53
+mean_CAP: 1.000000
+mean_CAP_bidir: 1.000000

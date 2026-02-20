@@ -1,0 +1,4 @@
+file: TE_C_00012_ce52c9_aug.json
+instances: 46
+mean_CAP: 0.984731
+mean_CAP_bidir: 0.984731

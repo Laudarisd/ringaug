@@ -1,0 +1,4 @@
+file: TE_D_00039_062ea3_aug.json
+instances: 63
+mean_CAP: 0.979666
+mean_CAP_bidir: 0.979666

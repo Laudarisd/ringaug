@@ -1,0 +1,38 @@
+shape_idx,orig_label,rf_label,n_points_orig,n_points_rf,label_match,recovered_vertices,cap_strict,cap_bidir,align_rmse,mean_nn_dist,distance_threshold,recovered_indices,visualization_path
+0,wall,wall,12,14,1,12,1.000000,1.000000,9.888742,2.761932,20.000000,2 3 4 5 6 7 8 9 10 11 0 1,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_000_wall.png
+1,wall,wall,8,9,1,7,0.000000,0.571429,13.319176,10.189185,20.000000,4 3 2 1 6 0 5,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_001_wall.png
+2,wall,wall,12,13,1,12,1.000000,1.000000,14.499098,3.415463,20.000000,2 3 4 5 6 7 8 9 10 11 0 1,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_002_wall.png
+3,wall,wall,4,5,1,4,0.250000,0.500000,8.690083,14.528790,20.000000,0 2 1 3,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_003_wall.png
+4,wall,wall,4,5,1,4,0.000000,1.000000,5.355812,9.184972,20.000000,0 3 2 1,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_004_wall.png
+5,wall,wall,8,9,1,8,0.000000,0.625000,25.593720,11.786686,20.000000,2 6 5 4 3 1 0 7,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_005_wall.png
+6,wall,wall,4,5,1,4,1.000000,1.000000,0.165846,0.166338,20.000000,2 3 0 1,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_006_wall.png
+7,wall,wall,4,5,1,4,0.000000,1.000000,9.338366,14.697163,20.000000,1 0 3 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_007_wall.png
+8,wall,wall,4,5,1,4,0.000000,1.000000,9.505667,13.933404,20.000000,1 0 3 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_008_wall.png
+9,wall,wall,12,13,1,12,0.000000,1.000000,31.176956,8.474892,20.000000,11 10 9 8 7 6 5 4 3 2 1 0,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_009_wall.png
+10,wall,wall,4,5,1,4,1.000000,1.000000,4.746323,8.112637,20.000000,0 1 2 3,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_010_wall.png
+11,wall,wall,18,15,1,0,0.000000,0.000000,71.827990,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_011_wall.png
+12,wall,wall,12,5,1,0,0.000000,0.000000,40.112712,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_012_wall.png
+13,wall,wall,8,13,1,0,0.000000,0.000000,60.089053,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_013_wall.png
+14,wall,wall,4,9,1,0,0.000000,0.000000,19.469179,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_014_wall.png
+15,wall,wall,4,5,1,2,0.000000,0.000000,28.097356,11.307033,20.000000,0 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_015_wall.png
+16,wall,wall,14,5,1,5,0.200000,0.400000,10.983693,8.726944,20.000000,11 0 13 8 9,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_016_wall.png
+17,wall,wall,8,15,1,2,0.500000,1.000000,40.322936,14.489163,20.000000,3 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_017_wall.png
+18,wall,wall,6,9,1,2,0.500000,1.000000,14.167072,8.092906,20.000000,4 3,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_018_wall.png
+19,entrance,wall,4,7,0,0,0.000000,0.000000,25.226894,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_019_entrance.png
+20,bed_room,entrance,6,5,0,2,0.000000,0.000000,13.058858,6.141202,20.000000,0 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_020_bed_room.png
+21,bed_room,bed_room,4,7,1,3,0.666667,0.666667,7.062645,9.436837,20.000000,0 2 3,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_021_bed_room.png
+22,dressing_room,bed_room,4,5,0,0,0.000000,0.000000,47.991289,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_022_dressing_room.png
+23,bathroom,dressing_room,4,5,0,0,0.000000,0.000000,27.019961,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_023_bathroom.png
+24,others,bathroom,4,5,0,4,1.000000,1.000000,7.914384,12.395067,20.000000,0 1 2 3,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_024_others.png
+25,others,others,4,5,1,2,0.000000,0.000000,10.768963,7.020706,20.000000,3 1,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_025_others.png
+26,bathroom,others,4,5,0,4,0.000000,1.000000,8.730830,12.998909,20.000000,0 3 2 1,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_026_bathroom.png
+27,bed_room,bathroom,8,5,0,3,0.666667,0.666667,13.994260,13.806478,20.000000,0 1 7,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_027_bed_room.png
+28,living_kitchen,bed_room,16,9,0,2,0.500000,1.000000,53.226328,18.633710,20.000000,9 8,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_028_living_kitchen.png
+29,others,living_kitchen,4,17,0,0,0.000000,0.000000,140.836086,nan,20.000000,,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_029_others.png
+30,others,others,4,5,1,2,0.000000,0.000000,15.551663,11.882386,20.000000,0 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_030_others.png
+31,others,others,4,5,1,2,0.000000,0.000000,21.915260,14.349174,20.000000,0 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_031_others.png
+32,others,others,4,5,1,2,0.000000,0.000000,20.602766,19.243789,20.000000,1 3,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_032_others.png
+33,others,others,4,5,1,2,0.000000,0.000000,12.709719,10.781263,20.000000,0 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_033_others.png
+34,others,others,4,5,1,2,0.000000,0.000000,13.846682,11.610729,20.000000,0 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_034_others.png
+35,others,others,4,5,1,2,0.000000,0.000000,10.064813,9.565378,20.000000,0 2,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_035_others.png
+36,background,others,30,5,0,5,0.000000,0.000000,17.127562,15.817113,20.000000,11 27 0 25 8,roboflow\cap_evaluation\TE_D_00051\TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2\visualizations\shape_036_background.png

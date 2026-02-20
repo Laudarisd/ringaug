@@ -1,0 +1,37 @@
+Distance threshold: 0.0 (not used in index mode)
+========================================
+==== SEGTOPO INDEXED CAP EVALUATION ====
+TE_C_00006_ae6280_aug.json | instances=60 | mean_CAP=0.9612 | mean_CAP_bidir=0.9612
+----------------------------------------
+TE_C_00006_c7de17_aug.json | instances=53 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_C_00012_8e05d9_aug.json | instances=47 | mean_CAP=0.9954 | mean_CAP_bidir=0.9954
+----------------------------------------
+TE_C_00012_ce52c9_aug.json | instances=46 | mean_CAP=0.9847 | mean_CAP_bidir=0.9847
+----------------------------------------
+TE_D_00025_a7af7c_aug.json | instances=47 | mean_CAP=0.9574 | mean_CAP_bidir=0.9574
+----------------------------------------
+TE_D_00025_ab20e7_aug.json | instances=38 | mean_CAP=0.9851 | mean_CAP_bidir=0.9851
+----------------------------------------
+TE_D_00030_dc65ca_aug.json | instances=61 | mean_CAP=0.9690 | mean_CAP_bidir=0.9690
+----------------------------------------
+TE_D_00030_f2cd19_aug.json | instances=54 | mean_CAP=0.9718 | mean_CAP_bidir=0.9718
+----------------------------------------
+TE_D_00039_062ea3_aug.json | instances=63 | mean_CAP=0.9797 | mean_CAP_bidir=0.9797
+----------------------------------------
+TE_D_00039_c425da_aug.json | instances=53 | mean_CAP=0.9762 | mean_CAP_bidir=0.9762
+----------------------------------------
+TE_D_00040_508d1f_aug.json | instances=34 | mean_CAP=0.9833 | mean_CAP_bidir=0.9833
+----------------------------------------
+TE_D_00040_69f720_aug.json | instances=38 | mean_CAP=0.9743 | mean_CAP_bidir=0.9743
+----------------------------------------
+TE_D_00051_4dbe3d_aug.json | instances=29 | mean_CAP=0.9745 | mean_CAP_bidir=0.9745
+----------------------------------------
+TE_D_00051_56e7a0_aug.json | instances=41 | mean_CAP=0.9510 | mean_CAP_bidir=0.9510
+----------------------------------------
+========================================
+files: 14
+total_instances(N): 664
+dataset_mean_CAP: 0.975817
+dataset_mean_CAP_bidir: 0.975817
+========================================

@@ -1,0 +1,4 @@
+file: TE_C_00006_ae6280_aug.json
+instances: 60
+mean_CAP: 0.961250
+mean_CAP_bidir: 0.961250

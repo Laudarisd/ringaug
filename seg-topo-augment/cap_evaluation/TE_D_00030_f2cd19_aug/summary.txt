@@ -1,0 +1,4 @@
+file: TE_D_00030_f2cd19_aug.json
+instances: 54
+mean_CAP: 0.971795
+mean_CAP_bidir: 0.971795

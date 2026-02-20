@@ -1,0 +1,46 @@
+================ SHAPE SUMMARY ================
+Original:  TE_D_00025.json | polygon shapes = 39
+Roboflow:  TE_D_00025_png.rf.93cfdc83c5abebdf7a4cd3b1776e9bb3.json | polygon shapes = 41
+------------------------------------------------
+idx | label | n_points_orig | n_points_roboflow
+------------------------------------------------
+  0 | wall / wall |           44 |               41
+  1 | wall / wall |           28 |                5
+  2 | wall / wall |           22 |               29
+  3 | wall / wall |           36 |               23
+  4 | wall / wall |            8 |               37
+  5 | wall / wall |           14 |                9
+  6 | wall / wall |            4 |               15
+  7 | wall / wall |           12 |                5
+  8 | wall / wall |           18 |               13
+  9 | wall / wall |            8 |               19
+ 10 | wall / wall |            6 |                9
+ 11 | wall / wall |            4 |                7
+ 12 | wall / wall |            4 |                5
+ 13 | wall / wall |            4 |                5
+ 14 | wall / wall |            6 |                5
+ 15 | wall / wall |            4 |                7
+ 16 | wall / wall |            4 |                5
+ 17 | bathroom / wall |            6 |                5
+ 18 | bathroom / bathroom |            6 |                7
+ 19 | entrance / bathroom |            6 |                7
+ 20 | bathroom / entrance |            4 |                7
+ 21 | balcony / bathroom |            6 |                5
+ 22 | bathroom / balcony |            6 |                7
+ 23 | bed_room / bathroom |            4 |                7
+ 24 | bed_room / bed_room |            4 |                5
+ 25 | living_kitchen / bed_room |            8 |                5
+ 26 | bed_room / living_kitchen |            8 |                9
+ 27 | bed_room / bed_room |            4 |                9
+ 28 | others / bed_room |            4 |                5
+ 29 | others / others |            6 |                5
+ 30 | others / others |            4 |                7
+ 31 | others / others |            4 |                5
+ 32 | others / others |            4 |                5
+ 33 | others / others |           14 |                5
+ 34 | others / others |            4 |               15
+ 35 | others / others |            4 |                5
+ 36 | others / others |            4 |                5
+ 37 | others / others |            4 |                5
+ 38 | background / others |           42 |                5
+================================================

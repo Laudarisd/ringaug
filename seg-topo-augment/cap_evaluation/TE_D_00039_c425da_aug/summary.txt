@@ -1,0 +1,4 @@
+file: TE_D_00039_c425da_aug.json
+instances: 53
+mean_CAP: 0.976213
+mean_CAP_bidir: 0.976213

@@ -1,0 +1,4 @@
+file: TE_D_00040_69f720_aug.json
+instances: 38
+mean_CAP: 0.974311
+mean_CAP_bidir: 0.974311

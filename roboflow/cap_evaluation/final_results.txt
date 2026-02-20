@@ -1,0 +1,72 @@
+Distance threshold: 20.0
+========================================
+======== DATASET CAP EVALUATION ========
+TE_C_00006.json  <->  TE_C_00006_png.rf.34e5e88541409c5b0147bb4fdc60bf57.json
+instances=58 | mean_CAP=0.2657 | mean_CAP_bidir=0.7764
+----------------------------------------
+TE_C_00006.json  <->  TE_C_00006_png.rf.530ebfcc7e90860aadac0a81a1c2632a.json
+instances=58 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_C_00006.json  <->  TE_C_00006_png.rf.5db28abbb0bdad0e49fa58069e1713c8.json
+instances=58 | mean_CAP=0.2614 | mean_CAP_bidir=0.7850
+----------------------------------------
+TE_C_00012.json  <->  TE_C_00012_png.rf.3390c26d23d5dfe05cbb19c8b9d5fb3b.json
+instances=46 | mean_CAP=0.1812 | mean_CAP_bidir=0.7337
+----------------------------------------
+TE_C_00012.json  <->  TE_C_00012_png.rf.e818c5b06a8773319ff4ef540498bb4f.json
+instances=46 | mean_CAP=0.1594 | mean_CAP_bidir=0.7120
+----------------------------------------
+TE_C_00012.json  <->  TE_C_00012_png.rf.f1224e78cb4df8c59b8e82e9f0bf589f.json
+instances=46 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_D_00025.json  <->  TE_D_00025_png.rf.2a462dae36546d47e31d8425ca709dde.json
+instances=39 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_D_00025.json  <->  TE_D_00025_png.rf.93cfdc83c5abebdf7a4cd3b1776e9bb3.json
+instances=29 | mean_CAP=0.3350 | mean_CAP_bidir=0.4387
+----------------------------------------
+TE_D_00025.json  <->  TE_D_00025_png.rf.d2e2af631452f8c281645eb31525f546.json
+instances=29 | mean_CAP=0.3342 | mean_CAP_bidir=0.4449
+----------------------------------------
+TE_D_00030.json  <->  TE_D_00030_png.rf.34cb7fc9a97fb14bdea598dd975d126b.json
+instances=45 | mean_CAP=0.3661 | mean_CAP_bidir=0.5552
+----------------------------------------
+TE_D_00030.json  <->  TE_D_00030_png.rf.52f0d54ef8e65aa982696f01f479af21.json
+instances=45 | mean_CAP=0.3529 | mean_CAP_bidir=0.5480
+----------------------------------------
+TE_D_00030.json  <->  TE_D_00030_png.rf.63f3e58b4babd2662edf9003a63bdd10.json
+instances=63 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_D_00039.json  <->  TE_D_00039_png.rf.10d1b35c35ff452b749bfce6d9dfeec8.json
+instances=43 | mean_CAP=0.2028 | mean_CAP_bidir=0.5054
+----------------------------------------
+TE_D_00039.json  <->  TE_D_00039_png.rf.301a23b22d94e0817785bd2577615b75.json
+instances=59 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_D_00039.json  <->  TE_D_00039_png.rf.7c98fca6594e643e0995e1e72c48f23d.json
+instances=43 | mean_CAP=0.2055 | mean_CAP_bidir=0.5042
+----------------------------------------
+TE_D_00040.json  <->  TE_D_00040_png.rf.73b9eda52b55d17ab8926969b94d209f.json
+instances=39 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_D_00040.json  <->  TE_D_00040_png.rf.7c9d142a22708e3dc64d57ed90e59e77.json
+instances=39 | mean_CAP=0.4423 | mean_CAP_bidir=0.7085
+----------------------------------------
+TE_D_00040.json  <->  TE_D_00040_png.rf.8e534dc8582f6b4750a6af317d60282d.json
+instances=39 | mean_CAP=0.4423 | mean_CAP_bidir=0.7085
+----------------------------------------
+TE_D_00051.json  <->  TE_D_00051_png.rf.79a339603589aecc2a43fbd6dd1378f9.json
+instances=37 | mean_CAP=1.0000 | mean_CAP_bidir=1.0000
+----------------------------------------
+TE_D_00051.json  <->  TE_D_00051_png.rf.98dbacb619af180d084df7c7d40c2b52.json
+instances=27 | mean_CAP=0.2145 | mean_CAP_bidir=0.4607
+----------------------------------------
+TE_D_00051.json  <->  TE_D_00051_png.rf.eb520f69f9ebd0d5733e2a5e2a849ec2.json
+instances=27 | mean_CAP=0.2265 | mean_CAP_bidir=0.4727
+----------------------------------------
+========================================
+matched_file_pairs: 21
+total_instances(N): 915
+dataset_mean_CAP: 0.549688
+dataset_mean_CAP_bidir: 0.761972
+========================================

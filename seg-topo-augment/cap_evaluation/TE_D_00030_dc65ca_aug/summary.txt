@@ -1,0 +1,4 @@
+file: TE_D_00030_dc65ca_aug.json
+instances: 61
+mean_CAP: 0.969035
+mean_CAP_bidir: 0.969035

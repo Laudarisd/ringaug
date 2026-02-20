@@ -1,0 +1,46 @@
+================ SHAPE SUMMARY ================
+Original:  TE_D_00040.json | polygon shapes = 39
+Roboflow:  TE_D_00040_png.rf.73b9eda52b55d17ab8926969b94d209f.json | polygon shapes = 39
+------------------------------------------------
+idx | label | n_points_orig | n_points_roboflow
+------------------------------------------------
+  0 | wall / wall |           10 |               10
+  1 | wall / wall |            4 |                4
+  2 | wall / wall |           20 |               20
+  3 | wall / wall |            6 |                6
+  4 | wall / wall |            4 |                4
+  5 | wall / wall |            8 |                8
+  6 | wall / wall |            6 |                6
+  7 | wall / wall |            6 |                6
+  8 | wall / wall |            4 |                4
+  9 | wall / wall |            4 |                4
+ 10 | wall / wall |            4 |                4
+ 11 | wall / wall |            6 |                6
+ 12 | wall / wall |           10 |               10
+ 13 | wall / wall |            8 |                8
+ 14 | wall / wall |           32 |               32
+ 15 | wall / wall |           14 |               14
+ 16 | wall / wall |           22 |               22
+ 17 | wall / wall |            6 |                6
+ 18 | wall / wall |            6 |                6
+ 19 | others / others |            4 |                4
+ 20 | balcony / balcony |            4 |                4
+ 21 | bed_room / bed_room |            4 |                4
+ 22 | bed_room / bed_room |            4 |                4
+ 23 | bed_room / bed_room |            4 |                4
+ 24 | bathroom / bathroom |            6 |                6
+ 25 | bathroom / bathroom |            4 |                4
+ 26 | bathroom / bathroom |            4 |                4
+ 27 | dressing_room / dressing_room |            4 |                4
+ 28 | entrance / entrance |            6 |                6
+ 29 | living_kitchen / living_kitchen |           12 |               12
+ 30 | others / others |            4 |                4
+ 31 | elevator / elevator |            4 |                4
+ 32 | others / others |           12 |               12
+ 33 | stairs / stairs |            4 |                4
+ 34 | bed_room / bed_room |            4 |                4
+ 35 | others / others |            6 |                6
+ 36 | others / others |            4 |                4
+ 37 | others / others |            4 |                4
+ 38 | background / background |           24 |               24
+================================================

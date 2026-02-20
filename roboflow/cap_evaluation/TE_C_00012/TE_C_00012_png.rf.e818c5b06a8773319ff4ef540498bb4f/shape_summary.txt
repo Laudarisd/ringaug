@@ -1,0 +1,53 @@
+================ SHAPE SUMMARY ================
+Original:  TE_C_00012.json | polygon shapes = 46
+Roboflow:  TE_C_00012_png.rf.e818c5b06a8773319ff4ef540498bb4f.json | polygon shapes = 47
+------------------------------------------------
+idx | label | n_points_orig | n_points_roboflow
+------------------------------------------------
+  0 | wall / wall |           12 |               13
+  1 | wall / wall |            4 |                5
+  2 | wall / wall |            4 |                5
+  3 | wall / wall |            4 |                5
+  4 | wall / wall |            4 |                5
+  5 | wall / wall |            4 |                5
+  6 | wall / wall |            8 |                9
+  7 | wall / wall |            6 |                7
+  8 | wall / wall |            4 |                5
+  9 | wall / wall |           19 |               20
+ 10 | wall / wall |            4 |                5
+ 11 | wall / wall |            4 |                5
+ 12 | wall / wall |            4 |                5
+ 13 | wall / wall |            4 |                5
+ 14 | wall / wall |            6 |                7
+ 15 | wall / wall |            6 |                7
+ 16 | wall / wall |           16 |               17
+ 17 | wall / wall |            4 |                5
+ 18 | wall / wall |            4 |                5
+ 19 | wall / wall |           10 |               11
+ 20 | wall / wall |            8 |                9
+ 21 | wall / wall |           22 |               23
+ 22 | wall / wall |            6 |                7
+ 23 | wall / wall |           14 |               15
+ 24 | wall / wall |            6 |                7
+ 25 | wall / wall |            4 |                5
+ 26 | wall / wall |            4 |                5
+ 27 | balcony / balcony |            4 |                5
+ 28 | bed_room / bed_room |            4 |                5
+ 29 | dressing_room / dressing_room |            4 |                5
+ 30 | bathroom / bathroom |            4 |                5
+ 31 | others / others |            4 |                5
+ 32 | others / others |            6 |                7
+ 33 | balcony / balcony |            6 |                7
+ 34 | others / others |            4 |                5
+ 35 | balcony / balcony |            4 |                5
+ 36 | bed_room / bed_room |            4 |                5
+ 37 | bathroom / bathroom |            5 |                6
+ 38 | others / others |            4 |                5
+ 39 | bed_room / bed_room |            6 |                7
+ 40 | balcony / balcony |            6 |                7
+ 41 | entrance / entrance |            8 |                9
+ 42 | living_kitchen / living_kitchen |           15 |               16
+ 43 | wall / wall |            4 |                5
+ 44 | others / others |            4 |                5
+ 45 | background / background |           27 |               16
+================================================

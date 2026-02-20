@@ -1,0 +1,66 @@
+================ SHAPE SUMMARY ================
+Original:  TE_D_00039.json | polygon shapes = 59
+Roboflow:  TE_D_00039_png.rf.7c98fca6594e643e0995e1e72c48f23d.json | polygon shapes = 60
+------------------------------------------------
+idx | label | n_points_orig | n_points_roboflow
+------------------------------------------------
+  0 | wall / wall |           32 |               33
+  1 | wall / wall |            8 |                9
+  2 | wall / wall |           24 |               25
+  3 | wall / wall |            4 |                5
+  4 | wall / wall |           42 |               43
+  5 | wall / wall |            4 |                5
+  6 | wall / wall |            4 |                5
+  7 | wall / wall |            4 |                5
+  8 | wall / wall |           12 |                9
+  9 | wall / wall |            6 |                6
+ 10 | wall / wall |            4 |                7
+ 11 | wall / wall |            4 |                5
+ 12 | wall / wall |            4 |                5
+ 13 | wall / wall |           10 |                5
+ 14 | wall / wall |            4 |               11
+ 15 | wall / wall |           10 |                5
+ 16 | wall / wall |            4 |               11
+ 17 | wall / wall |            4 |                5
+ 18 | wall / wall |           10 |                5
+ 19 | wall / wall |            8 |               11
+ 20 | wall / wall |           38 |                9
+ 21 | wall / wall |            8 |               35
+ 22 | wall / wall |           16 |                9
+ 23 | wall / wall |           12 |               17
+ 24 | wall / wall |            8 |               13
+ 25 | wall / wall |            4 |                9
+ 26 | wall / wall |            4 |                5
+ 27 | wall / wall |           12 |                5
+ 28 | stairs / wall |            4 |               13
+ 29 | elevator / stairs |            4 |                5
+ 30 | others / elevator |           10 |                5
+ 31 | bathroom / others |            4 |               11
+ 32 | bathroom / bathroom |            4 |                5
+ 33 | entrance / bathroom |            6 |                5
+ 34 | entrance / entrance |            6 |                7
+ 35 | bathroom / entrance |            4 |                7
+ 36 | others / bathroom |            6 |                5
+ 37 | dressing_room / others |            4 |                7
+ 38 | others / dressing_room |            4 |                5
+ 39 | bed_room / others |            4 |                5
+ 40 | bed_room / bed_room |            8 |                5
+ 41 | bed_room / bed_room |            6 |                9
+ 42 | bed_room / bed_room |            6 |                7
+ 43 | bed_room / bed_room |            4 |                7
+ 44 | balcony / bed_room |            4 |                5
+ 45 | balcony / balcony |            8 |                5
+ 46 | living_kitchen / balcony |           14 |                9
+ 47 | others / living_kitchen |            4 |               15
+ 48 | others / others |            4 |                5
+ 49 | others / others |            4 |                5
+ 50 | others / others |            4 |                5
+ 51 | others / others |            4 |                5
+ 52 | others / others |            4 |                5
+ 53 | bed_room / others |            6 |                5
+ 54 | others / bed_room |            4 |                7
+ 55 | others / others |            6 |                5
+ 56 | others / others |            6 |                7
+ 57 | others / others |            4 |                7
+ 58 | background / others |           30 |                5
+================================================

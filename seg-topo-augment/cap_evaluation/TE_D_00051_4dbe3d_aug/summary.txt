@@ -1,0 +1,4 @@
+file: TE_D_00051_4dbe3d_aug.json
+instances: 29
+mean_CAP: 0.974548
+mean_CAP_bidir: 0.974548
