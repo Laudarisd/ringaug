@@ -24,7 +24,7 @@ jobs:
         run: uv sync --frozen
 
       - name: CLI help check
-        run: uv run python main.py --help
+        run: uv run python -m ringaug.cli --help
 
       - name: Import app module check
-        run: uv run python -c "import src.augmentor; print('app-ok')"
+        run: uv run python -c "import ringaug.augmentor; print('app-ok')"

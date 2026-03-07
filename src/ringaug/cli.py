@@ -1,4 +1,4 @@
-from src.helper import build_parser, build_runtime_config, print_run_summary
+from ringaug.helper import build_parser, build_runtime_config, print_run_summary
 
 
 def main() -> None:
@@ -8,7 +8,7 @@ def main() -> None:
 
     print_run_summary(runtime)
 
-    from src.augmentor import IndexPreservingPolygonAugmentor
+    from ringaug.augmentor import IndexPreservingPolygonAugmentor
 
     augmentor = IndexPreservingPolygonAugmentor(debug=runtime["debug"])
     augmentor.augment_dataset(

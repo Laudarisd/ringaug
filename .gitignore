@@ -4,10 +4,10 @@
 # Keep repository metadata and publishable files
 !.gitignore
 !README.md
+!LICENSE
 !pyproject.toml
 !uv.lock
 !run_augmentation.sh
-!main.py
 !.github/
 .github/*
 !.github/workflows/
@@ -17,6 +17,12 @@
 # Keep only the core package entry points
 !src/
 src/*
-!src/__init__.py
-!src/augmentor.py
-!src/helper.py
+!src/ringaug/
+src/ringaug/*
+!src/ringaug/__init__.py
+!src/ringaug/augmentor.py
+!src/ringaug/helper.py
+!src/ringaug/cli.py
+!tests/
+tests/*
+!tests/test_imports.py
