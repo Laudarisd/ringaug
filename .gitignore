@@ -9,7 +9,7 @@
 !run_augmentation.sh
 
 # Keep only the core package entry points
-!ringaug/
-ringaug/*
+!src/
+src/*
 !ringaug/__init__.py
 !ringaug/main_aug.py
