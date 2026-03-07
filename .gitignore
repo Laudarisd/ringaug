@@ -8,6 +8,11 @@
 !uv.lock
 !run_augmentation.sh
 !main.py
+!.github/
+.github/*
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/smoke.yml
 
 # Keep only the core package entry points
 !src/
