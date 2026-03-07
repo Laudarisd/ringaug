@@ -7,6 +7,7 @@
 !pyproject.toml
 !uv.lock
 !run_augmentation.sh
+!main.py
 
 # Keep only the core package entry points
 !src/
