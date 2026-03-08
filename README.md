@@ -1,4 +1,12 @@
-RingAug# RingAug
+# RingAug
+
+[![PyPI version](https://img.shields.io/pypi/v/ringaug)](https://pypi.org/project/ringaug/)
+[![Python](https://img.shields.io/pypi/pyversions/ringaug)](https://pypi.org/project/ringaug/)
+![Augmentation](https://img.shields.io/badge/domain-augmentation-0ea5e9)
+![Albumentations](https://img.shields.io/badge/library-albumentations-22c55e)
+![Topology-Aware](https://img.shields.io/badge/focus-topology--aware-f59e0b)
+![CLI](https://img.shields.io/badge/interface-CLI-64748b)
+![License](https://img.shields.io/badge/license-MIT-a855f7)
 
 RingAug is a Python package and CLI for topology-aware polygon augmentation on LabelMe datasets.
 
